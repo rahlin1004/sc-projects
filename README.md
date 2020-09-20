@@ -10,3 +10,4 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 * [draw_line] https://github.com/rahlin1004/sc-projects/blob/master/Assignment2/draw_line.py
 * [breakoutgraphics] https://github.com/rahlin1004/sc-projects/blob/master/Assignment3/breakoutgraphics.py
 * [babygraphicsgui] https://github.com/rahlin1004/sc-projects/blob/master/Assignment5/SC101_Assignment5/babygraphicsgui.py
+* [largest_digit] https://github.com/rahlin1004/sc-projects/blob/master/Assignment6/largest_digit.py

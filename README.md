@@ -6,5 +6,6 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Codes:
 * [my_drawing] https://github.com/rahlin1004/sc-projects/blob/master/Assignment1/my_drawing.py
-* [bouncing_ball].https://github.com/rahlin1004/sc-projects/blob/master/Assignment2/bouncing_ball.py
+* [bouncing_ball] https://github.com/rahlin1004/sc-projects/blob/master/Assignment2/bouncing_ball.py
 * [draw_line] https://github.com/rahlin1004/sc-projects/blob/master/Assignment2/draw_line.py
+* [breakoutgraphics] https://github.com/rahlin1004/sc-projects/blob/master/Assignment3/breakoutgraphics.py
